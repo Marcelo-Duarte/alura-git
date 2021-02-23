@@ -16,7 +16,7 @@ public class Teste {
 		
 		System.out.println(controle.getSoma());
 		
-		//testando commit
+		//testando commit novamente
 
 	}
 
